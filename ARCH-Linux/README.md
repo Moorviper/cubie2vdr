@@ -10,3 +10,12 @@ the documentation for installing with/on ARCH-Linux will be available at: https:
 uImage: boot's from sd card
 
 uImage-sda: boot's from sda1
+
+=========
+Modules for 3.4.103-sun7i+
+
+    use: 
+    cat 3.4.103-sun7i+-modules.tar.gz-part_* > 3.4.103-sun7i+-modules.tar.gz
+    to combine it
+
+    Github can not host files larger than 100MB !!!
