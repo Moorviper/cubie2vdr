@@ -1,4 +1,4 @@
-cubie2vdr on Arch-Linux
+cubie2vdr on Arch-Linux (WiP)
 =========
 ![cubie2vdr](http://www.vdr-portal.de/wcf/images/photos/thumbnails/large/photo-252-a59cff91.jpg)
 =========
